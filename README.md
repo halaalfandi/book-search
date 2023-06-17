@@ -48,6 +48,10 @@ For installation of the dependencies, please run the following command in the te
 ```
 npm i
 ```
+or
+```
+npm install
+```
 
 ## Usage
 
